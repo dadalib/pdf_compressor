@@ -5,7 +5,7 @@ Python file compressor
 ## About The Project
 
 
-Compress JPG image. Replace with your text 
+Compress pdf image. Replace with your file in the code
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -21,7 +21,7 @@ Compress JPG image. Replace with your text
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Intall your python  .
+Intall your python and pip  .
 * Python 3.9.2
 * pip 22.0.3
 
@@ -33,18 +33,18 @@ All requires library are present in requirements.txt  file.
   ```
   pip  install Pillow
   ```
+  ...
 
 ### Installation
 
 1. Get a free API Key at [https://developer.ilovepdf.com/login](https://developer.ilovepdf.com/login)
+
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone git@github.com:dadalib/lunch_picker.gitl
    ```
 3. Install  packages
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
